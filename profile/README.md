@@ -1,17 +1,8 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostTypes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top_languages" />
-</div>
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7E7CC&width=435&lines=%3E+git+commit+-m+%22Fixed+the+thing...+probably.%22;%3E+Building+things+that+build+themselves..;%3E+Concept+to+code+in+minutes...;%3E+Shipping+features+while+you're+reading+this..." alt="Typing SVG" />
   </a>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostTypes&theme=vue-dark&hide_border=true" alt="total_contributions_card" />
-</div>
-
 
 <h3 align="center"> Languages </h3>
 <p align="center">
