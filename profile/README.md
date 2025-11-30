@@ -5,11 +5,11 @@
   </a>
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="GhostTypes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GhostTypes?cardType=level&theme=github-dark&preferLogin=false" />  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=GhostTypes&theme=dracula&no-bg=true&title=-Reviews,-Issues,-Followers&row=2&column=3" alt="Test" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GhostTypes&theme=juicyfresh&no-bg=true&title=-Reviews,-Issues" alt="Test" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="GhostTypes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GhostTypes?cardType=level&theme=github-dark&preferLogin=false" />  </a>
 </p>
 
 <h3 align="center"> Languages </h3>
