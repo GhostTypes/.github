@@ -8,6 +8,10 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="GhostTypes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GhostTypes?cardType=level&theme=github-dark&preferLogin=false" />  </a>
 </p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GhostTypes&theme=juicyfresh&no-bg=true&title=-Reviews,-Issues" alt="Test" />
+</p>
+
 <h3 align="center"> Languages </h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,py" alt="Languages"/>
