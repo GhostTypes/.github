@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7E7CC&width=435&lines=%3E+git+commit+-m+%22Fixed+the+thing...+probably.%22;%3E+Building+things+that+build+themselves..;%3E+Concept+to+code+in+minutes...;%3E+Shipping+features+while+you're+reading+this..." alt="Typing SVG" />
   </a>
 
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="GhostTypes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GhostTypes?cardType=level&theme=github-dark&preferLogin=false" />  </a>
+</p>
+
 <h3 align="center"> Languages </h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,html,py" alt="Languages"/>
