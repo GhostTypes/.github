@@ -4,13 +4,22 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7E7CC&width=435&lines=%3E+git+commit+-m+%22Fixed+the+thing...+probably.%22;%3E+Building+things+that+build+themselves..;%3E+Concept+to+code+in+minutes...;%3E+Shipping+features+while+you're+reading+this..." alt="Typing SVG" />
   </a>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GhostTypes&theme=dracula&no-bg=true&title=-Reviews,-Issues,-Followers&row=2&column=3" alt="Test" />
-</p>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="GhostTypes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GhostTypes?cardType=level&theme=github-dark&preferLogin=false" />  </a>
+   <a href="https://github.com/user-attachments/assets/6a512605-9047-47ad-acb0-d1f18458bb41">    <img  alt="GhostTypes's GitHub Stats" src="https://github.com/user-attachments/assets/6a512605-9047-47ad-acb0-d1f18458bb41" />  </a>
 </p>
+
+<p align="center">
+    <a href="https://pixel-profile.vercel.app/api/github-stats?username=GhostTypes">    <img  alt="GhostTypes's GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=GhostTypes" />  </a>
+</p>
+<p align="center">
+    <a href="https://github.com/user-attachments/assets/f1bb84a3-1fee-4917-86d8-cab505b0e03a">    <img  alt="GhostTypes's GitHub Stats" src="https://github.com/user-attachments/assets/f1bb84a3-1fee-4917-86d8-cab505b0e03a" />  </a>
+</p>
+
+
+
+
 
 <h3 align="center"> Languages </h3>
 <p align="center">
